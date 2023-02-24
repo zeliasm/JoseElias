@@ -1,7 +1,7 @@
 ## Opa!! Eu sou o José Elias
 
 - 👨‍💻Estudando: PHP, Mysql, Python
-- 👜Conta-me: zeliasmprog@hotmail.com
+- 👜Contate-me: zeliasmprog@hotmail.com
 - 🧍‍♂️Pronomes: ele/dele
 
 <div style="display: inline_block"><br>
